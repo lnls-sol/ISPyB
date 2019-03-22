@@ -11,7 +11,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>ispyb</groupId>
-			<artifactId>ispyb-ejb3</artifactId>
+			<artifactId>ispyb-ejb</artifactId>
 			<type>ejb</type>
 			<version>${project.version}</version>
 		</dependency>
@@ -57,7 +57,7 @@
 					<modules>
 						<ejbModule>
 							<groupId>ispyb</groupId>
-							<artifactId>ispyb-ejb3</artifactId>
+							<artifactId>ispyb-ejb</artifactId>
 							<bundleDir>/</bundleDir>
 						</ejbModule>
 											  

@@ -6,7 +6,7 @@
 		<artifactId>ispyb-parent</artifactId>
 		<version>5.16</version>
 	</parent>
-	<artifactId>ispyb-ejb3</artifactId>
+	<artifactId>ispyb-ejb</artifactId>
 	<packaging>jar</packaging>
 	<build>
 		<resources>

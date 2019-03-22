@@ -11,7 +11,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>ispyb</groupId>
-			<artifactId>ispyb-ejb3</artifactId>
+			<artifactId>ispyb-ejb</artifactId>
 			<version>${project.version}</version>
 			<scope>provided</scope>
 		</dependency>
